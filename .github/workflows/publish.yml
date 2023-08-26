@@ -24,5 +24,5 @@ jobs:
       - name: Publish package
         run: npm publish --access public
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.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 }}
 
