@@ -4,5 +4,9 @@
   "description": "generate pascal triangle values",
   "main": "index.js",
   "author": "Isuru Sajith",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsuruSajith/pascal-triangle-library.git"
+  }
 }
