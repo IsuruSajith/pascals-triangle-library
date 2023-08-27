@@ -1,5 +1,5 @@
 {
-  "name": "pascals-triangle-library",
+  "name": "@IsuruSajith/pascals-triangle-library",
   "version": "1.0.1",
   "description": "generate pascal triangle values",
   "main": "index.js",
